@@ -178,7 +178,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('./assets/img/Slider/Slider1.jpg') top center / cover no-repeat;
+    background: url('../img/Slider/Slider1.jpg') top center / cover no-repeat;
     position: relative;
 }
 
@@ -197,8 +197,11 @@ html {
 
 #slider .text-discription {
     font-size: 14px;
-    padding-top: 22px;
+    margin-top: 25px;
+    text-shadow: 0 0 1px #000;
+    
 }
+
 #content {}
 
 #content .content-section {
