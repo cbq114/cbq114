@@ -78,7 +78,7 @@ html {
 
 #header {
     height: 46px;
-    background-image: linear-gradient(to bottom, black 48%, rgba(207,177,238,0.2));
+    background-color: #000;
     position: fixed;
     top: 0;
     right: 0;
